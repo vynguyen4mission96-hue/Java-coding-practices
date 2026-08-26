@@ -8,7 +8,7 @@ import org.junit.Assert;//nó tự tạo
 //
 // @Test nói cho JUnit biết:
 // "Method ngay bên dưới là một TEST CASE."
-import org.junit.Test;// tự nó tạo khi viết @test ầu tiên
+import org.junit.Test;// tự nó tạo khi viết @test đầu tiên
 
 
 // TDD = Test-Driven Development
